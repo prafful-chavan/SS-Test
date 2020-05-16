@@ -1,3 +1,3 @@
-<h1> Hola from Shopper Stop !!! </h1>
-<h2> New non-prd-deployment </h2>
+<h1> Hello from Shopper Stop !!! </h1>
+<h2> this is non-prod code for website </h2>
 
